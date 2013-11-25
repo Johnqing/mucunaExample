@@ -1,5 +1,6 @@
 {
-	"static_path": "examples/",
+	"static_path": "src",
+	"combo_file": "combo",
 	"file_encoding": "utf-8",
 	"css_combine": true,
 	"js_combine": true
