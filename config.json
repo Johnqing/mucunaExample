@@ -1,6 +1,7 @@
 {
-    "srcPath": "src",
     "binPath": "output",
+    "srcPath": "src",
+    "template": "html",
     "combo_file": "combo",
     "author": "johnqing"
 }
