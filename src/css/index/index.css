@@ -1,6 +1,19 @@
+a.foo.bo{
+	color: #fff;
+}
 .index{
 	margin-top: 10px;
 }
 .bg{
     background: url("../../img/pic.jpg");
+}
+.bg2{
+    background: url("../../img/pic.jpg?v=abcdef") no-repeat;
+}
+.bg3{
+    background: url("../../img/pic.png?v=abcdef");
+}
+
+div.xxsd.bsdo{
+	color: #fff;
 }

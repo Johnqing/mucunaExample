@@ -1,7 +1,5 @@
-(function(window){
+function a(){
+	console.log(123);
+}
 
-	window.slider = function(){
-		return this;
-	}
-
-})(this);
+a();

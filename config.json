@@ -1,7 +1,17 @@
 {
-    "binPath": "output",
-    "srcPath": "src",
-    "template": "html",
-    "combo_file": "combo",
-    "author": "johnqing"
+	"TPL_PATH": "tpl",
+	"STATIC_PATH": "src",
+	"COMBINE_DIR": "combo",
+	"BUILD_PATH": "output",
+	"FILE_ENCODE": "utf-8",
+	"ENCODE_CHECK": true,
+	"CSS_REGULAR_CHECK": true,
+	"JS_REGULAR_CHECK": true,
+	"CSS_COMBINE": true,
+	"JS_COMBINE": true,
+	"HTML_COMPRESS": true,
+	"CSS_COMPRESS": true,
+	"JS_COMPRESS": true,
+	"OPTIMIZE_IMG": true,
+	"EXTERNAL_TO_INLINE": true
 }
